@@ -1,0 +1,4 @@
+﻿说明：
+    .m2 目录中提供：akka-actor、 akka-remote、 akka-kernel 的包。
+
+    如果maven从网上下载慢，可把此目录复制到 maven 库。
